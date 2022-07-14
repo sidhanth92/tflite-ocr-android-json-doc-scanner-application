@@ -1,0 +1,30 @@
+<resources>
+    <string name="tfe_ocr_app_name" translatable="false">TFL OCR</string>
+    <string name="tfe_ocr_gpu" translatable="false">GPU</string>
+    <string name="tfe_ocr_run_model" translatable="false">Run model</string>
+    <string name="tfe_ocr_texts_found" translatable="false">Text(s) Found</string>
+    <string name="tfe_ocr_no_text_found" translatable="false">No Text Found</string>
+    <string name="tfe_using_first_image" translatable="false">You are using the first image</string>
+    <string name="tfe_using_second_image" translatable="false">You are using the second image</string>
+    <string name="tfe_using_third_image" translatable="false">You are using the third image</string>
+    <string name="tfe_tf_image_description" translatable="false">TensorFlow image</string>
+    <string name="tfe_android_image_description" translatable="false">Android image</string>
+    <string name="tfe_chrome_image_description" translatable="false">Chrome image</string>
+    <string name="tfe_result_image_description" translatable="false">Result image</string>
+    <string name="app_name">Scanner</string>
+    <string name="toggle_flash">Toggle flash</string>
+    <string name="null_corners">Nessun documento rilevato</string>
+    <string name="confirm_document">Confirm document</string>
+    <string name="close_document_preview">Close document preview</string>
+    <string name="take_picture">Take picture</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="generate_text">Generate Text</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
